@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Pedro Henrique Gomes</title>
+    <link>https://pedrohenriquegomes.github.io/publication_types/2/index.xml</link>
+    <description>Recent content in 2 on Pedro Henrique Gomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Pedro Henrique Gomes</copyright>
+    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exploiting IoT technologies for enhancing Health Smart Homes through patient identification and emotion recognition</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2016-computer-communications/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2016-computer-communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Tuning of UAV Control Rules for Spraying Pesticides on Crop Fields: An Approach for Dynamic Environments</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2016-ijait-pesticides/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2016-ijait-pesticides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting the use of unmanned aerial vehicles to provide resilience in wireless sensor networks</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2014-communications-magazine-uav/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2014-communications-magazine-uav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Resource Allocation and Green Operation for Mobile Access Networks Based on Radio-over-Fiber</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2013-tmc-rof/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2013-tmc-rof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Algoritms for Resource Allocation in Radio-over-Fiber Access Networks</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2010-transactions-latinamerica-rof-algorithms/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2010-transactions-latinamerica-rof-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queue Management Mechanism for 802.11 Base Stations</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2011-communications-letters-rdqm/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2011-communications-letters-rdqm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Performance Degradation in Radio-Over-Fiber Systems Based on IEEE 802.16 Protocol</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2010-transactions-latinamerica-rof/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2010-transactions-latinamerica-rof/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

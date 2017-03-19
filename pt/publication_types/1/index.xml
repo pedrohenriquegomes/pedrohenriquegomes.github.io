@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Pedro Henrique Gomes</title>
+    <link>https://pedrohenriquegomes.github.io/pt/publication_types/1/index.xml</link>
+    <description>Recent content in 1 on Pedro Henrique Gomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2016 Pedro Henrique Gomes</copyright>
+    <atom:link href="/pt/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deep Reinforcement Learning for Dynamic Multichannel Access</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2017-icnc-deep-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2017-icnc-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights into Frequency Diversity from Measurements on an Indoor Low Power Wireless Network Testbed</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2016-iot-link-frequency-diversity/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-iot-link-frequency-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability through Timeslotted Channel Hopping and Flooding-based Routing</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2016-ewsn-flooding-tsch/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-ewsn-flooding-tsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributed approach to food prediction using a WSN and ML: a comparative study of ML techniques in a WSN deployed in Brazil</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2016-ideal-flood-prediction/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-ideal-flood-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting the Use of Ensemble Classifiers to Enhance the Precision of User&#39;s Emotion Classification</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2015-eann-emotions/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2015-eann-emotions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Cell Phones and WSNs for Preventing Accidents in Smart-homes with Disabled People</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2015-ntms-elderly/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2015-ntms-elderly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NUSBL: Non-Uniform Sequence Based localization</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2015-microsoft-localization/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2015-microsoft-localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Channel Data Collection for Throughput Maximization in Wireless Sensor Networks</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2014-mass-mcc/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2014-mass-mcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planejamento e gerenciamento de recursos para redes sem fio baseadas em Rádio sobre Fibra (In Portuguese)</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2012-cdt-rof/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2012-cdt-rof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-Criteria Optimization of Radio Resources for Radio-Over-Fiber Access Networks</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2011-icc-rof/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2011-icc-rof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of the Use of Radio Resource of Radio-Over-Fiber Access Networks</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2010-globecom-rof/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2010-globecom-rof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast algorithms for resource allocation in Radio-over-fiber access networks</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2009-latincom-rof/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2009-latincom-rof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast algorithms for resource allocation in Radio-over-fiber access networks</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2010-latincom-rof/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2010-latincom-rof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Otimização de Recursos Rádio para Redes de Acesso Sem Fio baseadas em Rádio sobre Fibra (In Portuguese)</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2010-wperformance-rof/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2010-wperformance-rof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Queue Management Mechanism for Improving TCP fairness in Wireless Access Networks</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2010-sbrc-rdqm/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2010-sbrc-rdqm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

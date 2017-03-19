@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Henrique Gomes on Pedro Henrique Gomes</title>
+    <link>https://pedrohenriquegomes.github.io/pt/index.xml</link>
+    <description>Recent content in Pedro Henrique Gomes on Pedro Henrique Gomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2016 Pedro Henrique Gomes</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deep Reinforcement Learning for Dynamic Multichannel Access</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2017-icnc-deep-learning/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2017-icnc-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting IoT technologies for enhancing Health Smart Homes through patient identification and emotion recognition</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2016-computer-communications/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-computer-communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights into Frequency Diversity from Measurements on an Indoor Low Power Wireless Network Testbed</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2016-iot-link-frequency-diversity/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-iot-link-frequency-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability through Timeslotted Channel Hopping and Flooding-based Routing</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2016-ewsn-flooding-tsch/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-ewsn-flooding-tsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Tuning of UAV Control Rules for Spraying Pesticides on Crop Fields: An Approach for Dynamic Environments</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2016-ijait-pesticides/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-ijait-pesticides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributed approach to food prediction using a WSN and ML: a comparative study of ML techniques in a WSN deployed in Brazil</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2016-ideal-flood-prediction/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-ideal-flood-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting the Use of Ensemble Classifiers to Enhance the Precision of User&#39;s Emotion Classification</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2015-eann-emotions/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2015-eann-emotions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Cell Phones and WSNs for Preventing Accidents in Smart-homes with Disabled People</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2015-ntms-elderly/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2015-ntms-elderly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NUSBL: Non-Uniform Sequence Based localization</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2015-microsoft-localization/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2015-microsoft-localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting the use of unmanned aerial vehicles to provide resilience in wireless sensor networks</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2014-communications-magazine-uav/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2014-communications-magazine-uav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Channel Data Collection for Throughput Maximization in Wireless Sensor Networks</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2014-mass-mcc/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2014-mass-mcc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

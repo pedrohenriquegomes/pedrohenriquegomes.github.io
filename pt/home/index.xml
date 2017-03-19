@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Pedro Henrique Gomes</title>
+    <link>https://pedrohenriquegomes.github.io/pt/home/index.xml</link>
+    <description>Recent content in Homes on Pedro Henrique Gomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2016 Pedro Henrique Gomes</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/pt/home/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
