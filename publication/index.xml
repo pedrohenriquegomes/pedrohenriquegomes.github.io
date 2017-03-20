@@ -6,7 +6,7 @@
     <description>Recent content in Publications on Pedro Henrique Gomes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Pedro Henrique Gomes</copyright>
+    <copyright>&amp;copy; 2017 Pedro Henrique Gomes</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -119,29 +119,29 @@
     </item>
     
     <item>
-      <title>Planejamento e gerenciamento de recursos para redes sem fio baseadas em Rádio sobre Fibra (In Portuguese)</title>
-      <link>https://pedrohenriquegomes.github.io/publication/2012-cdt-rof/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/publication/2012-cdt-rof/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast Algoritms for Resource Allocation in Radio-over-Fiber Access Networks</title>
-      <link>https://pedrohenriquegomes.github.io/publication/2010-transactions-latinamerica-rof-algorithms/</link>
-      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/publication/2010-transactions-latinamerica-rof-algorithms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bi-Criteria Optimization of Radio Resources for Radio-Over-Fiber Access Networks</title>
       <link>https://pedrohenriquegomes.github.io/publication/2011-icc-rof/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/publication/2011-icc-rof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queue Management Mechanism for 802.11 Base Stations</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2011-communications-letters-rdqm/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2011-communications-letters-rdqm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of the Use of Radio Resource of Radio-Over-Fiber Access Networks</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2010-globecom-rof/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2010-globecom-rof/</guid>
       <description></description>
     </item>
     
