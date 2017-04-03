@@ -532,11 +532,11 @@ article {
   line-height: normal;
   font-style: normal;
   font-size: 1rem;
-  color: #3170A5;
+  /*color: #3170A5;*/
 }
 
 .pub-list-item .pub-publication {
-  color: #090;
+  /*color: #090;*/
   font-size: 1rem;
 }
 
