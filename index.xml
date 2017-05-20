@@ -11,6 +11,15 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An adaptive approach for UAV-based pesticide spraying in dynamic environments</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2017-cea-pesticides/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2017-cea-pesticides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Reinforcement Learning for Dynamic Multichannel Access (Invited Paper)</title>
       <link>https://pedrohenriquegomes.github.io/publication/2017-icnc-deep-learning/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -97,15 +106,6 @@
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/publication/2014-communications-magazine-uav/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Channel Data Collection for Throughput Maximization in Wireless Sensor Networks</title>
-      <link>https://pedrohenriquegomes.github.io/publication/2014-mass-mcc/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/publication/2014-mass-mcc/</guid>
       <description></description>
     </item>
     

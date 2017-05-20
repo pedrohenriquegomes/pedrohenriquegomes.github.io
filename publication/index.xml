@@ -11,6 +11,15 @@
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An adaptive approach for UAV-based pesticide spraying in dynamic environments</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2017-cea-pesticides/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2017-cea-pesticides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Reinforcement Learning for Dynamic Multichannel Access (Invited Paper)</title>
       <link>https://pedrohenriquegomes.github.io/publication/2017-icnc-deep-learning/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/publication/2011-communications-letters-rdqm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization of the Use of Radio Resource of Radio-Over-Fiber Access Networks</title>
-      <link>https://pedrohenriquegomes.github.io/publication/2010-globecom-rof/</link>
-      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/publication/2010-globecom-rof/</guid>
       <description></description>
     </item>
     
