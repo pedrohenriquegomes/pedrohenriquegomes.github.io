@@ -29,11 +29,29 @@
     </item>
     
     <item>
+      <title>MABO-TSCH: Multihop and blacklist-based optimized time synchronized channel hopping</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2017-ett-mabo/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2017-ett-mabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Reinforcement Learning for Dynamic Multichannel Access (Invited Paper)</title>
       <link>https://pedrohenriquegomes.github.io/publication/2017-icnc-deep-learning/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/publication/2017-icnc-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ollivier’s Ricci Curvature of real low-power wireless network testbed</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2017-orc-techreport/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2017-orc-techreport/</guid>
       <description></description>
     </item>
     
@@ -88,24 +106,6 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/publication/2015-eann-emotions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining Cell Phones and WSNs for Preventing Accidents in Smart-homes with Disabled People</title>
-      <link>https://pedrohenriquegomes.github.io/publication/2015-ntms-elderly/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/publication/2015-ntms-elderly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NUSBL: Non-Uniform Sequence Based localization</title>
-      <link>https://pedrohenriquegomes.github.io/publication/2015-microsoft-localization/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/publication/2015-microsoft-localization/</guid>
       <description></description>
     </item>
     

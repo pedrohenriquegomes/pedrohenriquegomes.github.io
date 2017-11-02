@@ -29,11 +29,29 @@
     </item>
     
     <item>
+      <title>MABO-TSCH: Multihop and blacklist-based optimized time synchronized channel hopping</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2017-ett-mabo/</link>
+      <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2017-ett-mabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Reinforcement Learning for Dynamic Multichannel Access (Invited Paper)</title>
       <link>https://pedrohenriquegomes.github.io/pt/publication/2017-icnc-deep-learning/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/pt/publication/2017-icnc-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ollivier’s Ricci Curvature of real low-power wireless network testbed</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2017-orc-techreport/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2017-orc-techreport/</guid>
       <description></description>
     </item>
     
@@ -124,24 +142,6 @@
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/pt/publication/2014-mass-mcc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Radio Resource Allocation and Green Operation for Mobile Access Networks Based on Radio-over-Fiber</title>
-      <link>https://pedrohenriquegomes.github.io/pt/publication/2013-tmc-rof/</link>
-      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/pt/publication/2013-tmc-rof/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Planejamento e gerenciamento de recursos para redes sem fio baseadas em Rádio sobre Fibra</title>
-      <link>https://pedrohenriquegomes.github.io/pt/publication/2012-cdt-rof/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/pt/publication/2012-cdt-rof/</guid>
       <description></description>
     </item>
     

@@ -20,7 +20,23 @@
     
     
     <url>
+      <loc>https://pedrohenriquegomes.github.io/pt/publication/2017-ett-mabo/</loc>
+      <lastmod>2017-03-28T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://pedrohenriquegomes.github.io/pt/publication/2017-icnc-deep-learning/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://pedrohenriquegomes.github.io/pt/publication/2017-orc-techreport/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -247,6 +263,15 @@
     <url>
       <loc>https://pedrohenriquegomes.github.io/pt/publication_types/2/</loc>
       <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://pedrohenriquegomes.github.io/pt/publication_types/4/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
