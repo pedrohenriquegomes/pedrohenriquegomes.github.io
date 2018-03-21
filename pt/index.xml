@@ -11,6 +11,15 @@
     <atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2018-ccn-deep-learning/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2018-ccn-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An adaptive approach for UAV-based pesticide spraying in dynamic environments</title>
       <link>https://pedrohenriquegomes.github.io/pt/publication/2017-cea-pesticides/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
@@ -97,15 +106,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-ideal-flood-prediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploiting the Use of Ensemble Classifiers to Enhance the Precision of User&#39;s Emotion Classification</title>
-      <link>https://pedrohenriquegomes.github.io/pt/publication/2015-eann-emotions/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/pt/publication/2015-eann-emotions/</guid>
       <description></description>
     </item>
     
