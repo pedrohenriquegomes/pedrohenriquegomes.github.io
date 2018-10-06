@@ -11,6 +11,15 @@
     <atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Constructive Interference in 802.15.4: A Tutorial</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2018-surveys-constructive-interference/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2018-surveys-constructive-interference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks</title>
       <link>https://pedrohenriquegomes.github.io/pt/publication/2018-ccn-deep-learning/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
@@ -97,15 +106,6 @@
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-ijait-pesticides/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A distributed approach to flood prediction using a WSN and ML: a comparative study of ML techniques in a WSN deployed in Brazil</title>
-      <link>https://pedrohenriquegomes.github.io/pt/publication/2016-ideal-flood-prediction/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/pt/publication/2016-ideal-flood-prediction/</guid>
       <description></description>
     </item>
     

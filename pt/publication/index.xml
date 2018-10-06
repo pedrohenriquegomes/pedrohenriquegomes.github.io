@@ -11,6 +11,15 @@
     <atom:link href="/pt/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Constructive Interference in 802.15.4: A Tutorial</title>
+      <link>https://pedrohenriquegomes.github.io/pt/publication/2018-surveys-constructive-interference/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/pt/publication/2018-surveys-constructive-interference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Reinforcement Learning for Dynamic Multichannel Access in Wireless Networks</title>
       <link>https://pedrohenriquegomes.github.io/pt/publication/2018-ccn-deep-learning/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>https://pedrohenriquegomes.github.io/pt/publication/2015-microsoft-localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploiting the use of unmanned aerial vehicles to provide resilience in wireless sensor networks</title>
-      <link>https://pedrohenriquegomes.github.io/pt/publication/2014-communications-magazine-uav/</link>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://pedrohenriquegomes.github.io/pt/publication/2014-communications-magazine-uav/</guid>
       <description></description>
     </item>
     
