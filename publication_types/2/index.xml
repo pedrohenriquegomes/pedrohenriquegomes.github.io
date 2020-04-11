@@ -10,6 +10,33 @@
     <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Moving beyond testbeds? Lessons (we) learned about connectivity</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2019-pervasive-moving-beyond/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2019-pervasive-moving-beyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAMU‐RPL: Thompson sampling‐based multichannel RPL</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2019-ett-tamu/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2019-ett-tamu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An intelligent and generic approach for detecting human emotions: a case study with facial expressions</title>
+      <link>https://pedrohenriquegomes.github.io/publication/2018-soft-computing-human-emotions/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohenriquegomes.github.io/publication/2018-soft-computing-human-emotions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Constructive Interference in 802.15.4: A Tutorial</title>
       <link>https://pedrohenriquegomes.github.io/publication/2018-surveys-constructive-interference/</link>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
@@ -47,10 +74,10 @@
     
     <item>
       <title>MABO-TSCH: Multihop and blacklist-based optimized time synchronized channel hopping</title>
-      <link>https://pedrohenriquegomes.github.io/publication/2017-ett-mabo/</link>
+      <link>https://pedrohenriquegomes.github.io/publication/2018-ett-mabo/</link>
       <pubDate>Tue, 28 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://pedrohenriquegomes.github.io/publication/2017-ett-mabo/</guid>
+      <guid>https://pedrohenriquegomes.github.io/publication/2018-ett-mabo/</guid>
       <description></description>
     </item>
     
