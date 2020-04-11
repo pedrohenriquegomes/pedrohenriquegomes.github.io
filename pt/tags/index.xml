@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pedro Henrique Gomes</title>
+    <link>https://pedrohenriquegomes.github.io/pt/tags/</link>
+    <description>Recent content in Tags on Pedro Henrique Gomes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <copyright>&amp;copy; 2017 Pedro Henrique Gomes</copyright>
+    
+	<atom:link href="https://pedrohenriquegomes.github.io/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
